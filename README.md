@@ -22,6 +22,7 @@ Os objetivos definidos para esse projeto compõem-se em:
 >  * Canva
 >  * Excel
 >  * Power Automate
+>  * Power Apps
 
 # Apresentação
 <img src="canva hilary 1.png">
