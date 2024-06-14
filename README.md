@@ -46,7 +46,8 @@ Os objetivos definidos para esse projeto compõem-se em:
 
 
 # Aplicativo Power APPS
- <img src="pweer apps 1.png">
+
+ <img src="power apps 1.png">
 
 <img src="power apps 2.png">
 
