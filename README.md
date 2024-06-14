@@ -32,7 +32,9 @@ Os objetivos definidos para esse projeto compõem-se em:
 >  * Power Automate
 
 # Apresentação
-[Visualizar Apresentação](https://www.canva.com/design/DAF9oEJCaGw/r62kdMSI29MhuIPTHS4YKw/edit?utm_content=DAF9oEJCaGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<img src="canva hilary 1.png">
+<img src="canva hilary 2.png">
+<img src="canva hilary 3.png">
 
 # Aplicativo Excel
 
