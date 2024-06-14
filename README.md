@@ -47,11 +47,11 @@ Os objetivos definidos para esse projeto compõem-se em:
 
 # Aplicativo Power APPS
 
- <img src="pag 1.png">
+ <img src="pweer apps 1.png">
 
-<img src="pag 2.png">
+<img src="power apps 2.png">
 
-<img src="pag 3.png">
+<img src="power apps 3.png">
 
 
 # Aplicativo Power Automate
