@@ -6,14 +6,13 @@
 
 
 # Índice
-
-* [RoadElite](#Road-Elite)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#sprints)
 
 # Projeto
-O projeto tem como objetivo principal a melhoria das rodovias para a melhor circulação dos veículos a serem transportados via modal ferroviário através das pistas marginais da NOVADUTRA.
+Objetivo principal é mostrar o que foi aprendido ao longo do semestre nas aulas de informática aplicada 
+
 
 # Objetivo do Projeto
 Os objetivos definidos para esse projeto compõem-se em: 
