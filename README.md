@@ -47,12 +47,6 @@ Os objetivos definidos para esse projeto compõem-se em:
 <img src="power apps 3.png">
 
 
-# Aplicativo Power Automate
-
- <img src="automate.png">
-
-<img src="tela automate.png">
-
 <!-- ## Obrigado por acessar nosso GitHub! :sparkles: -->
 <p align="center">
 <img alt=" />
