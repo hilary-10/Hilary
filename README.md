@@ -6,23 +6,16 @@
 
 
 # Índice
-* [Equipe](#equipe)
+* Hilary 
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#sprints)
-
-# Projeto
-Objetivo principal é mostrar o que foi aprendido ao longo do semestre nas aulas de informática aplicada 
+* [Sprints](#sprints) 
 
 
 # Objetivo do Projeto
 Os objetivos definidos para esse projeto compõem-se em: 
 
-* Desenvolver pesquisas qualitativas e consistentes para a movimentação de veículos no setor ferroviário, indicando as obras com alto valor rentável;
-
-* Estruturação de plataformas necessárias para a organização do projeto, com foco no dinamismo, transparência e simplicidade na visualização de dados.
-
-## Tecnologias Utilizadas
-
+* Apresentar os trabalhos realizados durante o semestre na matéria de informática
+* 
  ### Tecnologias da Informação
  > * Github
  > * Power BI
